@@ -1,3 +1,4 @@
+![Stelix Logo](assets/stelix_logo.png)
 # Stelix
 ### Where Data Becomes Discovery
 
