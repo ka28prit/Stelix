@@ -6,7 +6,7 @@ def fits_to_csv(input_file, output_file=None):
   Converts .fits file to .csv file
   """
 
-  with fits.open(input_file) as hdil:
+  with fits.open(input_file) as hdul:
     data = hdul[1].data
 
   df = pd.DataFrame(data)
