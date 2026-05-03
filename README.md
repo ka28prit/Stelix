@@ -2,7 +2,7 @@
 # Stelix
 ### Where Data Becomes Discovery
 
-Stelix is a software initiative focused on building tools that simplify and accelerate astrophysics research. The goal of Stelix is to make astrophysical data reduction, analaysis, and workflows faster, cleaner, and widely accessible.
+Stelix is a software initiative focused on building tools that simplify and accelerate astrophysics research. The goal of Stelix is to make astrophysical data reduction, analaysis, and workflows faster, cleaner, and widely accessible. The finalized version of Stelix will be a universal standard for astrophysics data.
 
 ## Installation
 Coming Soon
